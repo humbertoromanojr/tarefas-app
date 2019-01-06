@@ -1,0 +1,16 @@
+.btn {
+    margin-right: 10px;
+}
+
+.markeAsDone {
+    text-decoration: line-through;
+    color: #ccc;
+}
+
+.tableActions {
+    width: 115px;
+}
+
+.Form {
+    padding-bottom: 60px;
+}
